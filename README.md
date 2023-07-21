@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/mikhail-koryukin-a6317079/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" height="100" /></a>
 
 ##Languages and Tools:
-<a href="https://www.python.org/" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/Commons:Deletion_requests/File:Python_logo.svg" height="100" /></a>
+- Python/Django/DRF/Docker/PostgreSQL/Linux/Nginx/Bash/Unittest
 
 <!--
 **Kom1969/Kom1969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

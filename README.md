@@ -1,10 +1,10 @@
 ### Hi 👋 I'm MiKhail - Python backend developer
 
 
-Connect with me:
+- Connect with me:
 <a href="https://t.me/kom1969" target="blank"><img align="center" src="https://img.icons8.com/color/344/telegram-app--v1.png" height="100" /></a>
 <a href="https://www.linkedin.com/in/mikhail-koryukin-a6317079/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" height="100" /></a>
-Languages and Tool:
+- Languages and Tool:
 
 
 <!--

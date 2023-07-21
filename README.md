@@ -3,10 +3,10 @@
 
 ##Connect with me:
 <a href="https://t.me/kom1969" target="blank"><img align="center" src="https://img.icons8.com/color/344/telegram-app--v1.png" height="100" /></a>
-<a href="https://www.linkedin.com/in/mikhail-koryukin-a6317079/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" height="100" /></a>
+<a href="https://www.linkedin.com/in/mikhail-koryukin-a6317079/" target="blank"><img align="center" src="https://www.python.org/psf/trademarks-faq/" height="100" /></a>
 
 ##Languages and Tools:
-<a href="https://www.python.org/" target="blank"><img align="center""
+<a href="https://www.python.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" 
 
 <!--
 **Kom1969/Kom1969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
